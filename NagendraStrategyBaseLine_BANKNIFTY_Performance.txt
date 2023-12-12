@@ -1,0 +1,18 @@
+Number of trades : 20087
+Total No of Basket : 10043
+Win percentage : 40.0
+Basket Win Percentage : 40.0
+Net PnL : -474117.99
+No of winning trades : 8035
+No of Winning Basket : 4017
+No of losing trades : 10246
+No of Losing Basket : 6026
+Win % of Long trades : 40.0
+Win % of Short trades : nan
+Final Balance($) : 525882.01
+Average_gain(pips) : 804.39
+Average_loss(pip) : -677.08
+Average_gain($) : -3.57
+Average_loss($) : -677.08
+Profit factor : 0.93
+Sharpe ratio : -0.02
